@@ -15,7 +15,7 @@ A personal iOS app I designed and built to solve a real household pain point: ma
 ## Screenshots
 
 ### Home / Grocery List
-![Home Screen](home-screen.png)
+![Grocery List Tab](grocery-list-tab.jpg)
 *[One line on the product decision behind this screen]*
 
 ### Meal Planner
